@@ -2,19 +2,19 @@
 ## **Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples**
 ---
 ### Course Details
-- **Course Title:** Computer Ethics and Cyber Law  
-- **Course Code:** CSE 455
+**Course Title:** Computer Ethics and Cyber Law  
+**Course Code:** CSE 455
 
 ### Submitted by
-- **Name:** Md. Ashiqul Tareq Titu  
-- **ID:** 2002056  
-- **Level:** 4, **Semester:** II  
-- Department of Computer Science and Engineering, HSTU
+**Name:** Md. Ashiqul Tareq Titu  
+**ID:** 2002056  
+**Level:** 4, **Semester:** II  
+Department of Computer Science and Engineering, HSTU
 
 ### Submitted to
-- **Name:** Pankaj Bhowmik  
-- **Designation:** Lecturer  
-- Department of Computer Science and Engineering, HSTU
+**Name:** Pankaj Bhowmik  
+**Designation:** Lecturer  
+Department of Computer Science and Engineering, HSTU
 
 ---
 
