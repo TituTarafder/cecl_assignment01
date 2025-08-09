@@ -55,11 +55,11 @@ This assignment explores global best practices from the USA, UK, Canada, China, 
 
 | Reform Title                                   | Global Inspiration                   | Key Features                                                                                   |
 |--------------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------|
-| **1. Digital Privacy & Consent Law**             | 🇨🇦 Canada (PIPEDA), 🇪🇺 EU (GDPR)       | Requires clear consent, user rights to access/delete data, breach penalties                       |
-| **2. National Cyber Risk Management Framework**  | 🇺🇸 USA (CISA), 🇬🇧 UK (NCSC)           | Sector audits, response teams, national incident coordination                                     |
-| **3. Digital Literacy & Cyber Hygiene Act**      | 🇸🇬 Singapore, 🇨🇦 Canada               | Cybersecurity education, certification for businesses, national awareness programs                |
-| **4. Data Localization & Flow Policy**           | 🇨🇳 China, 🇮🇳 India                    | Regulation of data transfer across borders, localized hosting requirements                        |
-| **5. AI Ethics & Accountability Law**            | 🇪🇺 EU AI Act, OECD Principles          | Ethical AI use, algorithm transparency, protection from bias, misuse, and surveillance             |
+| **1. Digital Privacy & Consent Law**             | Canada (PIPEDA)       | Requires clear consent, user rights to access/delete data, breach penalties                       |
+| **2. National Cyber Risk Management Framework**  | USA (CISA), UK (NCSC)           | Sector audits, response teams, national incident coordination                                     |
+| **3. Digital Literacy & Cyber Hygiene Act**      | Singapore, Canada               | Cybersecurity education, certification for businesses, national awareness programs                |
+| **4. Data Localization & Flow Policy**           | China, India                  | Regulation of data transfer across borders, localized hosting requirements                        |
+| **5. AI Ethics & Accountability Law**            | India, USA          | Ethical AI use, algorithm transparency, protection from bias, misuse, and surveillance             |
 
 ---
 
